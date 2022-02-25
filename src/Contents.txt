@@ -1,0 +1,26 @@
+1. ES6 features: 
+	spread oprtator
+	nullish coalcense
+	optional chaining
+	arrow function
+	object destructuing, array destructuing
+	let and const
+	template string
+	Promise
+	Async Await
+2. Usecase of React / Working of React
+3. types of component 
+	3.1 class component
+	3.2 functional component
+
+4. props
+5. State
+6. Lifecycle Methods
+7. hooks
+8. React Router
+9. redux
+10. redux saga
+11. selectors
+12. MUI - website
+
+
